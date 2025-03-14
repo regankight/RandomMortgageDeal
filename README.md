@@ -1,17 +1,8 @@
-# RandomMortgageDeal 🏡
+Overview:
+This project simulates applying business rules to recommend financial products based on user inputs — a model for personalized product offerings in marketing and RevOps pipelines. Shows how Python can automate decision-making processes tied to user data.
 
-A Python program that helps users pick the best mortgage deals based on their loan amount, credit score, and down payment preferences. If no matching deal is found, the program offers a random "special deal."
+Key Skills Shown:
 
----
-
-## Features ✨
-- Recommends mortgage packages based on user inputs (credit score, down payment).
-- Provides random recommendations if no exact match is found.
-- Easy to expand by adding more packages.
-
----
-
-## How to Run 🚀
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/YourUsername/MortgageDealPicker.git
+- Filtering data based on multi-criteria logic
+- Business rule automation (as used in sales/finance ops)
+- Customer segmentation-like logic
